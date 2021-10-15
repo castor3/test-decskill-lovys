@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Decskill_Lovys_Calendar.Domain\Decskill_Lovys_Calendar.Domain.csproj" />
+    </ItemGroup>
+
+</Project>

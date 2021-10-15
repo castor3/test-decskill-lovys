@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace Decskill_Lovys_CalendarAPI
+namespace Decskill_Lovys_Calendar.API
 {
     public class Program
     {
